@@ -1,16 +1,28 @@
-# clocktask
+# Clocktask
 
-An app for help you in your time
+![Badge em Desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Flutter Version](https://img.shields.io/badge/flutter-2.x-blue.svg)
 
-## Getting Started
+Clocktask é um aplicativo mobile desenvolvido com Flutter, projetado para ser o seu assistente de tempo pessoal. Combinando as funcionalidades de relógio, alarme, técnica Pomodoro, cronômetro e calendário, Clocktask é a ferramenta perfeita para gerenciar seu tempo de forma eficaz, seja você um estudante, profissional ou qualquer pessoa buscando otimizar suas rotinas diárias.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- **Relógio Comum:** Mantenha-se sempre no horário com um relógio elegante e fácil de ler.
+- **Alarme:** Acorda ou lembra de eventos importantes com alarmes personalizáveis.
+- **Técnica Pomodoro:** Aumente sua produtividade com a técnica Pomodoro integrada, ajudando a manter o foco e as pausas.
+- **Cronômetro:** Meça o tempo de suas atividades com precisão.
+- **Calendário:** Organize seus compromissos e eventos com um calendário fácil de usar.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Começando
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para começar a usar o Clocktask, siga estes passos simples:
+
+### Pré-requisitos
+
+Certifique-se de ter o Flutter instalado em sua máquina. Para mais informações, visite [Flutter](https://flutter.dev/docs/get-started/install).
+
+### Instalação
+
+1. Clone o repositório
+```bash
+git clone https://github.com/BrenoItalo16/clock-task.git
